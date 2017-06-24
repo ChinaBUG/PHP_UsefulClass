@@ -2,7 +2,8 @@
 
 | 文件名        | 官方网址           | 说明  				|
 | ------------- |:-------------:| :-----|
-| [class.xml.php](http://www.ipodmp.com/)      | [www.ipodmp.com](http://www.ipodmp.com/) | 我的xml功能片段 |
+| [class.xml.php](http://www.ipodmp.com/)      | [www.ipodmp.com](http://www.ipodmp.com/) | xml功能片段 |
+| [class.string.php](http://www.ipodmp.com/)      | [www.ipodmp.com](http://www.ipodmp.com/) | 字符串方面功能片段 |
 
 
 | 文件名        | 官方网址           | 说明  				|
